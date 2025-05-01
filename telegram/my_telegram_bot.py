@@ -2,8 +2,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext, CallbackQueryHandler
 import os
 
-API_TOKEN = '8046152271:AAGTuaal6b_DCpGOiSdFzeUZXCbhkIDAQUM'
-MY_CHAT_ID = '766099965'
+API_TOKEN = '8013243836:AAE6qwVFWrSt_0uELMaVTy4WENcVwIvXeGU'
+MY_CHAT_ID = '8146161867'
 
 user_sessions = {}
 temp_photos = {}
