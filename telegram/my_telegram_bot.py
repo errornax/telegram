@@ -9,7 +9,7 @@ import asyncio
 API_TOKEN = '8013243836:AAE6qwVFWrSt_0uELMaVTy4WENcVwIvXeGU'
 MY_CHAT_ID = '8146161867'
 PORT = int(os.environ.get('PORT', 10000))
-WEBHOOK_URL = 'https://your-render-app-url.onrender.com'  # استبدل هذا برابط تطبيقك على Render
+WEBHOOK_URL = 'https://telegram-p641.onrender.com'  # استبدل هذا برابط تطبيقك على Render
 
 # إعدادات السعر
 DOLLAR_TO_IQD = 1530
