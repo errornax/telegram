@@ -11,7 +11,7 @@ import time
 API_TOKEN = os.environ.get('API_TOKEN', '8013243836:AAE6qwVFWrSt_0uELMaVTy4WENcVwIvXeGU')
 MY_CHAT_ID = os.environ.get('MY_CHAT_ID', '8146161867')
 PORT = int(os.environ.get('PORT', 8443))  # Using more reliable port
-WEBHOOK_URL = os.environ.get('WEBHOOK_URL', 'https://telegram-p641.onrender.com')
+WEBHOOK_URL = os.environ.get('WEBHOOK_URL', 'https://telegram-qh12.onrender.com')
 SECRET_TOKEN = os.environ.get('SECRET_TOKEN', 'your_secret_token_here')
 
 # Exchange rates
