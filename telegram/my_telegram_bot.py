@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext, CallbackQueryHandler
 import os
 
-API_TOKEN = '8013243836:AAE6qwVFWrSt_0uELMaVTy4WENcVwIvXeGU'
+API_TOKEN = '7305189286:AAE-WcmM7G2wgt3_YQ7vKQhtPAe53_d3PXo'
 MY_CHAT_ID = '8146161867'
 
 user_sessions = {}
